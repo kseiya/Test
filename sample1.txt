@@ -2,3 +2,4 @@ GitTest
 first push
 branch_ver1 add
 branch_ver2_base_ver1 add
+as soon as
